@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel with GitHub upgraded
+                    Laravel with GitHub
                 </div>
 
                 <div class="links">
